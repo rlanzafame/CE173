@@ -14,7 +14,7 @@ parts:
 #       - file: some_content/text_and_code.ipynb
   - caption: Lecture Summaries
     chapters:
-    - file: lecture/overview.md
+    - file: lecture.md
       sections:
       - file: lecture/01.md
 #       - file: exercises/002.md
