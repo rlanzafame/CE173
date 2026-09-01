@@ -17,6 +17,7 @@ parts:
     - file: lecture.md
       sections:
       - file: lecture/01.md
+      - file: lecture/02.md
 #       - file: exercises/002.md
 #       - file: exercises/003.md
 #       - file: exercises/004.md
