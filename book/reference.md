@@ -1,3 +1,4 @@
+(references)=
 # References
 
 This is a list of useful and classic textbooks, some of which may or may not be referenced in lectures or assignments. With the exception of Freeze and Cherry (1979), you are certainly not expected to read or acquire all of them!
