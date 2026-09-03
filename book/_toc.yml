@@ -18,8 +18,8 @@ parts:
       sections:
       - file: lecture/01.md
       - file: lecture/02.md
-      # START REMOVE-FROM-RELEASE
       - file: lecture/03.md
+      # START REMOVE-FROM-RELEASE
       - file: lecture/99.md
       # END REMOVE-FROM-RELEASE
 #       - file: exercises/002.md
