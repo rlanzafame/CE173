@@ -21,6 +21,10 @@ Mitchell, J. K., Soga, K., & O’Sullivan, C. (2025). Fundamentals of soil behav
 
 _This is one of the best references you can have for understanding how geo-materials (and water) work. It is available online through the UC Berkeley library system.https://search.library.berkeley.edu/permalink/01UCS_BER/ergbi/alma991086428424106532_
 
+Cohen, A.J.B. & Cherry, J.A, (2020). Conceptual and Visual Understanding of Hydraulic Head and Groundwater Flow. The Groundwater Project. https://doi.org/10.21083/978-1-7770541-6-8
+
+_This is a great resource for improving your understanding of the controls on groundwater flow in 2D. It is available online and presents several key concepts in an easy-to-understand graphical format._
+
 
 ## Additional
 
