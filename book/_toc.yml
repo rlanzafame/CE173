@@ -12,6 +12,14 @@ parts:
 #     - file: some_content/overview.md
 #       sections:
 #       - file: some_content/text_and_code.ipynb
+  - caption: Selected Topics
+    chapters:
+    - file: topics/diffusion.md
+      sections:
+      - file: topics/diffusion/case01
+      - file: topics/diffusion/case02
+      - file: topics/diffusion/case03
+    - file: topics/compressibility
   - caption: Lecture Summaries
     chapters:
     - file: lecture.md
