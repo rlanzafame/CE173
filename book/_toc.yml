@@ -20,6 +20,10 @@ parts:
       - file: topics/diffusion/case02
       - file: topics/diffusion/case03
     - file: topics/compressibility
+    - file: topics/capture.md
+      sections:
+      - file: topics/capture/solution.md
+      - file: topics/capture/interactive.ipynb
     - file: topics/programming.md
       sections:
       - file: topics/programming/colab.md
