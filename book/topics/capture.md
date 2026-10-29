@@ -4,7 +4,13 @@ Zone of capture refers to the water in an aquifer that is "captured" by one or m
 
 _This section is based on content and code by Nicholas Sitar._
 
-The analysis assumes steady-state flow in a confined aquifer, although it can be applied to unconfined flow with a bit of judgement as long as the gradients are not too large. The transmissivity, T $[L^2/T]$, of a tabular aquifer is computed as $T=Kb$, where $K$ is the hydraulic conductivity and $b$ is the thickness of the aquifer. The gradient, $i$, determines how fast the water moves through the aquifer and the zone of capture is the portion of the aquifer in which the water is captured by a well pumping at a rate $Q$. If the width of the zone of capture is denoted as $2y_L$ then then $Q=iKb2y_L$ $[L^3/T]$ and the width of the zone of capture is
+The analysis assumes steady-state flow in a confined aquifer, although it can be applied to unconfined flow with a bit of judgement as long as the gradients are not too large. The transmissivity, T $[L^2/T]$, of a tabular aquifer is computed as $T=Kb$, where $K$ is the hydraulic conductivity and $b$ is the thickness of the aquifer. The gradient, $i$, determines how fast the water moves through the aquifer and the zone of capture is the portion of the aquifer in which the water is captured by a well pumping at a rate $Q$. If the width of the zone of capture is denoted as $2y_L$ then then
+
+$$
+Q=iKb2y_L \quad [L^3/T]
+$$
+
+and the width of the zone of capture is
 
 $$
 2y_L=\frac{Q}{iKb}
