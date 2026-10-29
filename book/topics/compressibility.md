@@ -1,6 +1,6 @@
 # Compressibility and Related Properties
 
-See Freeze and Cherr (1979) [Chapter 2.9](https://fc79.gw-project.org/english/chapter-2/#2.9) for background information and typical values.
+See Freeze and Cherry (1979) [Chapter 2.9](https://fc79.gw-project.org/english/chapter-2/#2.9) for background information and typical values.
 
 Compressibility of the soil skeleton, $\alpha$ is defined as the relative change in volume of the soil skeleton per unit change in hydraulic head, which has units of inverse stress (e.g., $\mathrm{m^2N^{-1}}$). Compressibility of water, $\beta$ is defined as the relative change in volume of water per unit change in hydraulic head (same units as $\alpha$).
 
