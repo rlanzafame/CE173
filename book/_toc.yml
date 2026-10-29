@@ -20,6 +20,9 @@ parts:
       - file: topics/diffusion/case02
       - file: topics/diffusion/case03
     - file: topics/compressibility
+    - file: topics/programming.md
+      sections:
+      - file: topics/programming/colab.md
   - caption: Lecture Summaries
     chapters:
     - file: lecture.md
