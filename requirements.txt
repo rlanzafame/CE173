@@ -11,3 +11,4 @@ matplotlib
 numpy
 flopy
 plotly
+ipywidgets # used during development; may not be included in final version
