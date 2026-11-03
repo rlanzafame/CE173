@@ -19,6 +19,7 @@ parts:
       - file: topics/diffusion/case01
       - file: topics/diffusion/case02
       - file: topics/diffusion/case03
+      - file: topics/diffusion/numerical
     - file: topics/compressibility
   - caption: Lecture Summaries
     chapters:
