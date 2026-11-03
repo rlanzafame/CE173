@@ -21,6 +21,13 @@ parts:
       - file: topics/diffusion/case03
       - file: topics/diffusion/numerical
     - file: topics/compressibility
+    - file: topics/capture.md
+      sections:
+      - file: topics/capture/solution.md
+      - file: topics/capture/interactive.ipynb
+    - file: topics/programming.md
+      sections:
+      - file: topics/programming/colab.md
   - caption: Lecture Summaries
     chapters:
     - file: lecture.md
