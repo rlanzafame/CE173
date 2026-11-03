@@ -23,7 +23,11 @@ parts:
     - file: topics/capture.md
       sections:
       - file: topics/capture/solution.md
-      - file: topics/capture/interactive.ipynb
+      - file: topics/capture/interactive
+    - file: topics/numerical
+      sections:
+      - file: topics/numerical/derivation
+      - file: topics/numerical/stability
     - file: topics/programming.md
       sections:
       - file: topics/programming/colab.md
