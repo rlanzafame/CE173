@@ -28,6 +28,10 @@ _This is a great resource for improving your understanding of the controls on gr
 
 ## Additional
 
+Anderson, Mary P., William W. Woessner, and Randall J. Hunt. Applied groundwater modeling: simulation of flow and advective transport. Academic press, 2015.
+
+_This textbook has a very thorough treatment of numerical modeling approaches. Of course, being published in 2015 means that even though it may be the most recent of such textbooks, a lot has changed since then!_ 
+
 Schwartz, F. W. and Zhang, H., "Fundamentals of Groundwater", John Wiley, 2003.
 
 Domenico, P. A. and Schwartz, F. W., "Physical and Chemical Hydrogeology", 2nd edition, John Wiley & Sons, 1998.
